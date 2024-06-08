@@ -1,0 +1,47 @@
+/* Navigation Section  */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home Section  */
+#Home{
+    height: 200px;
+    
+    /* flex-direction: column; */
+}
+#Home::before{
+    height: 90px;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 2px;
+    flex-direction: column;]
+
+}
+#Home p{
+    font-size: 0.6re
+
+/* Service Section  */
+#Services{
+    flex-direction: column;
+}
+#Services .box img{
+    height: 100px;
+    display: block;
+    margin: auto ;
+ 
+ }
+
+/* Contact U  */
+
+/* Utility class */
+
+.h-primary{
+    padding: 0px;
+    font-size: 0.8rem;
+}
+.h-secondary {
+    font-size: 1.0rem;
+    padding: 4px;
+    font-family: 'Baloo Bhai 2', cursive;
+    
+}
